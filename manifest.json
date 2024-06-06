@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-toggle-properties",
+	"name": "Toggle Properties",
+	"version": "1.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Obsidian Plugin to toggle properties",
+	"author": "Marc Langer",
+	"authorUrl": "http://marc-langer.de",
+	"fundingUrl": "https://www.paypal.me/MarcGerrit",
+	"isDesktopOnly": false
+}
